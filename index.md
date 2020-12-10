@@ -1,3 +1,6 @@
-# Welcome to my blog
+# El blog de electrónica digital
 
-I'm glad you are here. I plan to talk about ...
+Este es un esfuerzo conjunto para la implementación de circuitos digitales con VHDL.
+Prepárate para conocer el mundo digital y el poder las FPGAs.
+
+Bienvenidos!!!
